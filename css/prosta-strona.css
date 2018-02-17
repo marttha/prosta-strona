@@ -1,0 +1,61 @@
+
+#a1{ color:red;}
+#a2{color: aqua;}
+#a3{color: chartreuse;}
+#a4{color: darkviolet;}
+
+#selection1{background-color: aquamarine;}
+
+
+#square1
+{
+    background-color:fuchsia;
+    float: left;
+    margin-left:auto;
+    width:100px; height:100px;
+    display: block;
+} 
+
+#square2
+{
+    background-color:aqua;
+    float: left;
+    width:100px; height:100px;
+    display: block;
+} 
+
+#square3
+{
+    background-color:blueviolet;
+    float: left;
+    width:100px;height:100px;
+display: block;
+}
+
+#square4
+{
+    background-color:chartreuse;
+    float: left;
+    width:100px;height:100px;
+display: block;
+}
+#square5
+{
+    border: 2px solid tomato;
+    width:100px;height:100px;
+}
+#square6
+{
+    border: 2px solid royalblue;
+    width:100px;height:100px;
+}
+#square7
+{
+    border: 2px solid forestgreen;
+    width:100px;height:100px;
+}
+
+
+#type1{width: 60px; height: 60px;
+background-color: cyan;
+font-family: cursive;}
